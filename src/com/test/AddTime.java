@@ -27,7 +27,7 @@ public class AddTime {
     long difference = date2.getTime() - date1.getTime();
     System.out.println((difference / 1000) / 60);
     
-    System.out.println( "Tested" );
+    
 
   }
 
